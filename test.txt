@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 dfghvbn
+=======
+assfghvbn
+ghjkl
+hjk1
+>>>>>>> branchb
 km;m
 000
